@@ -72,7 +72,7 @@
                                 <state key="normal" backgroundImage="&lt;remove from group"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="J0C-ta-Esh">
-                                <rect key="frame" x="307" y="60" width="97" height="60"/>
+                                <rect key="frame" x="297" y="58" width="97" height="60"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" backgroundImage="done for delete groups"/>
                             </button>
